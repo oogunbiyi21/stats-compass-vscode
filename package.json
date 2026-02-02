@@ -2,7 +2,7 @@
     "name": "stats-compass-mcp",
     "displayName": "Stats Compass MCP Server",
     "description": "50+ pandas-powered tools for data loading, cleaning, visualization, and ML workflows",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "inference-labs",
     "icon": "icon.png",
     "license": "MIT",
