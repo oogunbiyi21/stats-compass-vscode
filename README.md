@@ -16,7 +16,19 @@ Stats Compass provides 50+ pandas-powered tools for data science workflows:
 ## Requirements
 
 - Python 3.11+
-- [uv](https://github.com/astral-sh/uv) package manager
+- [UV](https://docs.astral.sh/uv/) - The extension will prompt you to install if not detected
+
+### Installing UV
+
+**macOS/Linux:**
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+**Windows (PowerShell):**
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
 
 ## Installation
 
